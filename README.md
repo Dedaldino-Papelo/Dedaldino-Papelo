@@ -1,6 +1,6 @@
 ## Hi there, I am Dedaldino Papelo
 
-- 👀 My current stacks now are Reactjs and Nodejs
+- 👀 REACTJS + NODEJS + MYSQL + MONGODB
 - 🌱 - Learning React Native
 - 💞️ I’m available to collaborate with Backend or Frontend
 - 📫 I like challenge
