@@ -1,9 +1,9 @@
 ## Hi there, I am Dedaldino Papelo
 
-- 👀 REACTJS + NODEJS + MYSQL + MONGODB
-- 🌱 - Learning React Native
+- 👀 I am a software developer always seeking to improve my abilities
+- 🌱 - I like to learn new things and technologies, contact -me 
 - 💞️ I’m available to collaborate with Backend or Frontend
-- 📫 I like challenge
+- 📫 I like to challenge myself
 - 
 <div align="center">
   <a href="https://github.com/Dedaldino-Papelo">
