@@ -2,7 +2,8 @@
 
 - 👀 I am a software developer always seeking to improve my abilities
 - 🌱 - I like to learn new things and technologies
-- 💞️ I’m available to collaborate on Backend or Frontend with Nodejs, React, C#.NET, SQL Databases and much more
+- 💞️ I’m available to collaborate on Backend or Frontend 
+     with Nodejs, React, C#.NET, SQL Databases and much more
 - 📫 I like to challenge myself
 - 
 <div align="center">
