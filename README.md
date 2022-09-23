@@ -3,9 +3,9 @@
 - 👀 I am a software developer always seeking to improve my abilities
 - 🌱 - I like to learn new things and technologies
 - 💞️ I’m available to collaborate on Backend or Frontend 
-     with Nodejs, React, C#.NET, SQL Databases and much more
+    with Nodejs, React, C#.NET, SQL Databases and much more
 - 📫 I like to challenge myself
-- 
+
 <div align="center">
   <a href="https://github.com/Dedaldino-Papelo">
   <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Dedaldino-Papelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
